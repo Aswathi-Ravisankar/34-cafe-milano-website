@@ -1,0 +1,6 @@
+{
+  "name": "34 Cafe Milano",
+  "description": "Luxury Italian Café & Specialty Coffee Experience - 34 Cafe Milano",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
