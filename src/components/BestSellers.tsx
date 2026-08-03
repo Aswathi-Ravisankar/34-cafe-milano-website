@@ -48,7 +48,7 @@ export const BestSellers: React.FC<BestSellersProps> = ({ onAddToCart, onSelectI
                   onClick={() => onSelectItem(item)}
                 >
                   <img
-                    src={item.image}
+                    src="/images/bronte_pistachio_latte_1785751121598.jpg"
                     alt={item.name}
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                     referrerPolicy="no-referrer"

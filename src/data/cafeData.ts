@@ -1,14 +1,14 @@
 import { MenuItem, Review, GalleryItem, BusinessDay } from '../types';
 
-export const HERO_IMAGE = '/src/assets/images/hero_cafe_milano_1785742454116.jpg';
-export const COFFEE_ART_IMAGE = '/src/assets/images/signature_coffee_art_1785742467660.jpg';
-export const PISTACHIO_LATTE_IMAGE = '/src/assets/images/bronte_pistachio_latte_1785751121598.jpg';
-export const PASTA_SPECIAL_IMAGE = '/src/assets/images/milano_pasta_special_1785742477389.jpg';
-export const MARGHERITA_PIZZA_IMAGE = '/src/assets/images/neapolitan_margherita_pizza_1785751077929.jpg';
-export const PROSCIUTTO_PANINI_IMAGE = '/src/assets/images/prosciutto_focaccia_panini_1785751108086.jpg';
-export const TIRAMISU_IMAGE = '/src/assets/images/classic_italian_tiramisu_1785751093082.jpg';
-export const CANNOLI_IMAGE = '/src/assets/images/sicilian_cannoli_dessert_1785751147785.jpg';
-export const PASSIONFRUIT_SPRITZ_IMAGE = '/src/assets/images/passionfruit_sparkling_spritz_1785751134625.jpg';
+export const HERO_IMAGE = '/images/hero_cafe_milano_1785742454116.jpg';
+export const COFFEE_ART_IMAGE = '/images/signature_coffee_art_1785742467660.jpg';
+export const PISTACHIO_LATTE_IMAGE = '/images/bronte_pistachio_latte_1785751121598.jpg';
+export const PASTA_SPECIAL_IMAGE = '/images/milano_pasta_special_1785742477389.jpg';
+export const MARGHERITA_PIZZA_IMAGE = '/images/neapolitan_margherita_pizza_1785751077929.jpg';
+export const PROSCIUTTO_PANINI_IMAGE = '/images/prosciutto_focaccia_panini_1785751108086.jpg';
+export const TIRAMISU_IMAGE = '/images/classic_italian_tiramisu_1785751093082.jpg';
+export const CANNOLI_IMAGE = '/images/sicilian_cannoli_dessert_1785751147785.jpg';
+export const PASSIONFRUIT_SPRITZ_IMAGE = '/images/passionfruit_sparkling_spritz_1785751134625.jpg';
 
 export const CAFE_INFO = {
   name: '34 Cafe Milano',
