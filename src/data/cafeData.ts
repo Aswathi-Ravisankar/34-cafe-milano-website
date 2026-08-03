@@ -167,7 +167,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'g4',
     title: 'Truffle Tagliatelle al Parmigiano',
     category: 'food',
-    image: PASTA_SPECIAL_IMAGE,,
+    image: PASTA_SPECIAL_IMAGE,
     description: 'Handmade fresh egg pasta tossed with black truffles and 24-month Parmigiano.'
   },
   {
